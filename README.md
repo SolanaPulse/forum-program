@@ -49,5 +49,6 @@ This program manages a forum system with Merkle tree-based content verification,
 - All forum data is permanently removed and lamports returned.
 
 programId - 9oH6wv4k3nr1Y3k2HSdeJ5TVFS2b7yLXvuVhy7NkpdnR
+
 update authority and wrong authority keypair with account have some devnet SOL to pass the test cases if it fails.
 
